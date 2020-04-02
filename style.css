@@ -1,0 +1,35 @@
+section {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.links a {
+  text-decoration: none;
+}
+
+.links a span {
+  font-size: small;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+.links a:not(:first-child) {}
+
+.links a:before {
+  content: "\f0ac";
+  font-family: "Font Awesome 5 Brands", "FontAwesome";
+  margin-right: .25rem;
+}
+
+.links a[href*="apple."]:before {
+  content: "\f179";
+}
+
+.links a[href*="google."]:before {
+  content: "\f1a0";
+}
+
+.links a[href*="spotify."]:before {
+  content: "\f1bc";
+}

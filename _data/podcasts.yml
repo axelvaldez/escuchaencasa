@@ -1,0 +1,56 @@
+list:
+  - name: Rancheros Tiernos con la Salsa Aparte
+    description: Un podcast que nunca está listo, pero que camina. Con Arturo Mendez desde Vancouver, Canadá, y Axel Valdez desde Hermosillo, México.
+    image: rancheros-tiernos.jpg
+    website: http://rancherostiernos.com
+    apple: https://podcasts.apple.com/us/podcast/rancheros-tiernos-con-la-salsa-aparte/id1457083709?uo=4
+    google: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy83OWIyOTcwL3BvZGNhc3QvcnNz
+    spotify: https://open.spotify.com/show/5Sj3ISRvkTbm1p7y8DY9zj
+
+  - name: El Hongo Verde
+    description: Un podcast de noticias y discusion de video juegos, desarrollo, rants, y una que otra broma de muy mala calidad.
+    image: el-hongo-verde.jpg
+    website: https://anchor.fm/elhongoverde/
+    apple: https://podcasts.apple.com/mx/podcast/el-hongo-verde/id1465215767
+    google: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9iOWEyYjQ4L3BvZGNhc3QvcnNz
+    spotify: https://open.spotify.com/show/0NtOh6dXJKiklQDtd9lMrG
+
+  - name: Watcha Trucha
+    description: Podcast hecho desde Hermosillo, Sonora, donde unos compas se juntan a hablar de cine, sin pretensiones, en compañía de una cheve. Choro cinematográfico banquetero.
+    image: watcha-trucha.jpg
+    website: https://mx.ivoox.com/es/watcha-trucha_aj_12025157_1.html
+    apple: https://podcasts.apple.com/mx/podcast/watcha-trucha/id1435934655
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3Qtd2F0Y2hhLXRydWNoYV9mZ19mMTU4NjcxNF9maWx0cm9fMS54bWw
+    spotify: https://open.spotify.com/show/5niDfy3Vtkcby70n7eCcpW?si=A0E5yXGRQimBIxjGQ815FA
+
+  - name: Amigos Imaginarios
+    description: ¡Hola! Soy Ray Contreras, un comediante de stand up que se hartó de que le digan cómo vivir su vida. Por eso hice este podcast, para compartirlo con gente que se sienta igual que yo, o sea, como un diseñador gráfico al que le deban 3 pagos jajaja no es cierto.
+    image: amigos-imaginarios.jpg
+    website: https://www.youtube.com/channel/UCx6o_zSD1t984yXloDzJwKQ
+    apple: https://podcasts.apple.com/mx/podcast/amigos-imaginarios/id1498127863
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMzkzMjc3OC9wb2RjYXN0L3Jzcw
+    spotify: https://open.spotify.com/show/3gIKXD8GSA3TTPwD4ZJr8m?si=H_TS0ds6QomTSo6pYf2mwA
+
+  - name: ComunidadTI
+    description: Nuestro objetivo es compartir el conocimiento. Hablamos de temas relacionados con la tecnología, en específico programación web. Y para hacerlo mas divertido, lo combinamos con temas controversiales.
+    image: comunidad-ti.jpg
+    website: https://anchor.fm/comunidad-ti/
+    apple:
+    google: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xM2JhZTM1OC9wb2RjYXN0L3Jzcw==
+    spotify: https://open.spotify.com/show/1m7euxlui28xSgjAU1TJEZ
+
+  - name: Leyendas Legendarias
+    description: Un podcast de comedia donde cada semana exploraremos casos de crimen real, fenómenos paranormales o eventos históricos tan peculiares, notorios y fantásticos que se ganaron el título de Leyendas Legendarias.
+    image: leyendas-legendarias.jpg
+    website: https://leyendaslegendarias.com
+    apple: https://podcasts.apple.com/us/podcast/leyendas-legendarias/id1454073357
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2xleWVuZGFzLWxlZ2VuZGFyaWFz
+    spotify: https://open.spotify.com/show/6wF969GfLUfypoKaicH5gr?si=orx8K50VTA-UIxjTlMsrkQ
+  
+    # - name:
+  #   description:
+  #   image:
+  #   website:
+  #   apple:
+  #   google:
+  #   spotify:
