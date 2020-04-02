@@ -47,7 +47,79 @@ list:
     google: https://podcasts.google.com/?feed=aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2xleWVuZGFzLWxlZ2VuZGFyaWFz
     spotify: https://open.spotify.com/show/6wF969GfLUfypoKaicH5gr?si=orx8K50VTA-UIxjTlMsrkQ
   
-    # - name:
+  - name: Radio Ambulante
+    description: Radio Ambulante es un podcast pionero en español que cuenta crónicas latinoamericanas en audio, celebrando la diversidad y complejidad de la región. 
+    image: radio-ambulante.jpg
+    website: https://radioambulante.org
+    apple: https://podcasts.apple.com/us/podcast/radio-ambulante/id527614348
+    google: https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnBvZHRyYWMuY29tL1NXWTF4NnZYWlZGSg
+    spotify:
+
+  - name: Dos de lo Mismo
+    description: Dos de lo mismo es un podcast creado por Karen Huerta Balsi y Alan León Chaparro, donde tenemos invitados diferentes cada semana. Demostrando como una conversación con la persona adecuada puede ser súper interesante. Grabado en Hermosillo, Sonora.
+    image: dos-de-lo-mismo.jpg
+    website:
+    apple: https://podcasts.apple.com/mx/podcast/dos-de-lo-mismo/id1479593995
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ZjIyZjcwL3BvZGNhc3QvcnNz
+    spotify: https://open.spotify.com/show/7CnQf1Jrum0gxNYzbj6OlS?si=PGHGlJRGRJ695byJN5F9Zg
+
+  - name: La Hora Feliz
+    description: Un podcast chistoso hecho por los comediantes Cojo Feliz y Tío Rober. Humor de todos los colores con temas que no sabías que eran chistosos.
+    image: la-hora-feliz.jpg
+    website:
+    apple: https://podcasts.apple.com/mx/podcast/la-hora-feliz-con-cojo-feliz-y-tío-rober/id1255438694
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjIyOTQ5NC9lcGlzb2Rlcy9mZWVk
+    spotify: https://open.spotify.com/show/0u8dE1kc9CkFn8bONEq0hE?si=hECKkJdkSGusFb9VYI3ykg
+
+  # - name:
+  #   description:
+  #   image:
+  #   website:
+  #   apple:
+  #   google:
+  #   spotify:
+
+  # - name:
+  #   description:
+  #   image:
+  #   website:
+  #   apple:
+  #   google:
+  #   spotify:
+
+  # - name:
+  #   description:
+  #   image:
+  #   website:
+  #   apple:
+  #   google:
+  #   spotify:
+
+  # - name:
+  #   description:
+  #   image:
+  #   website:
+  #   apple:
+  #   google:
+  #   spotify:
+
+  # - name:
+  #   description:
+  #   image:
+  #   website:
+  #   apple:
+  #   google:
+  #   spotify:
+
+  # - name:
+  #   description:
+  #   image:
+  #   website:
+  #   apple:
+  #   google:
+  #   spotify:
+
+  # - name:
   #   description:
   #   image:
   #   website:
