@@ -71,13 +71,13 @@ list:
     google: https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjIyOTQ5NC9lcGlzb2Rlcy9mZWVk
     spotify: https://open.spotify.com/show/0u8dE1kc9CkFn8bONEq0hE?si=hECKkJdkSGusFb9VYI3ykg
 
-  # - name:
-  #   description:
-  #   image:
-  #   website:
-  #   apple:
-  #   google:
-  #   spotify:
+  - name: Las Raras
+    description: Podcast independiente de relatos de no ficción. Entrevistas, guión, diseño de sonido y música original.
+    image: las-raras.jpg
+    website: http://lasraraspodcast.com
+    apple: https://podcasts.apple.com/us/podcast/las-raras/id1158546491
+    google: https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjU1MDE2MDcyL3NvdW5kcy5yc3M
+    spotify: https://open.spotify.com/show/7hBH9nlz59X9pErdalYchr?si=yP4o87A0TmOJEUGCL4zKxQ
 
   # - name:
   #   description:
