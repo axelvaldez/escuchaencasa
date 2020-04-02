@@ -1,6 +1,10 @@
+body {
+  color: #031330;
+}
+
 section {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
 }
 
 .links a {
@@ -42,4 +46,8 @@ input[type=text], input[type=email], textarea {
   width: 100%;
   padding: 5px 10px;
   font-size: 1rem;
+}
+
+.bg-light-primary {
+  background: #e7f0ff;
 }

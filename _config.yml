@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 🎧 Escucha en Casa
+title: Escucha en Casa
 email: axel@paskola.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Una lista de podcasts independientes (no programas de radio, no "locutores" establecidos y no producidos por empresas tradicionales).
+  Una lista de podcasts independientes en español para escuchar en casa durante la contingencia sanitaria.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: axelvaldezmx

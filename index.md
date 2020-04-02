@@ -5,16 +5,19 @@ title: Una lista de podcasts independientes en español para escuchar en casa du
 
 <section>
   <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <h1>{{ site.title }}</h1>
-        <h2>{{ page.title }}</h2>
+    <div class="row align-items-center">
+      <div class="col-12 col-lg-7">
+        <h1 class="text-primary display-3 font-weight-bold">{{ site.title }}</h1>
+        <h2 class="font-weight-normal">{{ page.title }}</h2>
+      </div>
+      <div class="col-lg-5">
+        <img src="/img/header-illustration.png" alt="" class="img-fluid">
       </div>
     </div>
   </div>
 </section>
 
-<section>
+<section class="bg-light-primary">
   <div class="container">
     <div class="row">
       {% for podcast in site.data.podcasts.list %}
