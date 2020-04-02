@@ -1,0 +1,56 @@
+<div class="modal fade" id="podcastform" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+  aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">¡Comparte tu Podcast!</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form action="" name="podcast-submission" netlify>
+        <div class="modal-body">
+          <p>Todos los campos son opcionales pero mientras
+            más datos nos des, más rápido podremos agregarlo.</p>
+          <div class="row">
+            <div class="col-md-6">
+              <p>
+                <label for="nombre">Tu nombre:</label>
+                <input type="text" name="nombre">
+              </p>
+            </div>
+            <div class="col-md-6">
+              <p>
+                <label for="nombre">Tu email:</label>
+                <input type="email" name="email">
+              </p>
+            </div>
+          </div>
+          <p>
+            <label for="podcast_nombre">Nombre del podcast:</label>
+            <input type="text" name="podcast_nombre">
+          </p>
+          <p>
+            <label for="podcast_descripcion">Descripción:</label>
+            <textarea rows="3" name="podcast_descripcion"></textarea>
+          </p>
+          <p>
+            <label for="podcast_apple">URL de Apple Podcasts:</label>
+            <input type="text" name="podcast_apple">
+          </p>
+          <p>
+            <label for="podcast_google">URL de Google Podcasts:</label>
+            <input type="text" name="podcast_google">
+          </p>
+          <p>
+            <label for="podcast_spotify">URL de Spotify:</label>
+            <input type="text" name="podcast_spotify">
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-primary">Enviar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

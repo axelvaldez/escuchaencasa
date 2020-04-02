@@ -48,10 +48,37 @@ title: Una lista de podcasts independientes en español para escuchar en casa du
   </div>
 </section>
 
-<div class="container-fluid bg-dark text-white">
-  <section>
+<div class="container-fluid bg-primary text-white">
+  <section class="py-5">
     <div class="container">
-      hello
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-6">
+          <h4>¡Comparte tu podcast!</h4>
+          <p>Envíanos cualquier podcast que quieras ver en esta lista. Si cumple con los criterios, lo agregaremos en
+            cuanto nos sea posible.</p>
+          <p>
+            <button type="button" class="btn btn-outline-light mr-2" data-toggle="modal" data-target="#criterios">
+              Criterios
+            </button>
+            <button type="button" class="btn btn-light" data-toggle="modal" data-target="#podcastform">
+              Compartir Podcast
+            </button>
+          </p>
+        </div>
+      </div>
     </div>
   </section>
 </div>
+
+<section class="py-5">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-6">
+        <p>Hecho con ♥ por <a href="https://axelvaldez.mx/">Axel Valdez</a>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include criterios.html %}
+{% include form.html %}

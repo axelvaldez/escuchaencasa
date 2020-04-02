@@ -33,3 +33,13 @@ section {
 .links a[href*="spotify."]:before {
   content: "\f1bc";
 }
+
+label {
+  display: block;
+}
+
+input[type=text], input[type=email], textarea {
+  width: 100%;
+  padding: 5px 10px;
+  font-size: 1rem;
+}
