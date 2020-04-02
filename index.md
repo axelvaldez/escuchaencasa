@@ -78,6 +78,7 @@ title: Una lista de podcasts independientes en español para escuchar en casa du
     <div class="row justify-content-center text-center">
       <div class="col-lg-6">
         <p>Hecho con <i class="fa fa-heart"></i> por <a href="https://axelvaldez.mx/">Axel Valdez</a>.</p>
+        {% include share.html %}
       </div>
     </div>
   </div>

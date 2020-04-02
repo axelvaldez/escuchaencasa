@@ -68,7 +68,7 @@ input[type=text], input[type=email], textarea {
 }
 
 .share-links {
-  opacity: 0;
+  display: none;
   font-size: 2rem;
   position: absolute;
   width: 100%;
@@ -76,16 +76,28 @@ input[type=text], input[type=email], textarea {
   background: white;
   top: 0;
   left: 0;
-  display: flex;
   justify-content: space-evenly;
   align-items: center;
-  transition: .2s ease-in opacity;
 }
 
 .share:hover .share-links {
-  opacity: 1;
+  display: flex;
 }
 
 .share-links span {
   display: none;
+}
+
+@media (hover: none) {
+  .share {
+    padding: .5rem;
+    top: auto;
+    bottom: 1rem;
+  }
+  .share-links {
+    display: flex;
+    font-size: 1rem;
+    padding-right: .5rem;
+    padding-left: .5rem;
+  }
 }
