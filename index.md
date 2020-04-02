@@ -6,9 +6,9 @@ title: Una lista de podcasts independientes en español para escuchar en casa du
 <section>
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-12 col-lg-7">
+      <div class="col-12 col-lg-7 mb-5 mb-lg-0">
         <h1 class="text-primary display-3 font-weight-bold">{{ site.title }}</h1>
-        <h2 class="font-weight-normal">{{ page.title }}</h2>
+        <p class="font-weight-normal h3">{{ page.title }}</p>
       </div>
       <div class="col-lg-5">
         <img src="/img/header-illustration.png" alt="" class="img-fluid">
