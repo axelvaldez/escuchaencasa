@@ -31,7 +31,7 @@ list:
     google: https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMzkzMjc3OC9wb2RjYXN0L3Jzcw
     spotify: https://open.spotify.com/show/3gIKXD8GSA3TTPwD4ZJr8m?si=H_TS0ds6QomTSo6pYf2mwA
 
-  - name: ComunidadTI
+  - name: Comunidad TI
     description: Nuestro objetivo es compartir el conocimiento. Hablamos de temas relacionados con la tecnología, en específico programación web. Y para hacerlo mas divertido, lo combinamos con temas controversiales.
     image: comunidad-ti.jpg
     website: https://anchor.fm/comunidad-ti/
@@ -79,7 +79,55 @@ list:
     google: https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjU1MDE2MDcyL3NvdW5kcy5yc3M
     spotify: https://open.spotify.com/show/7hBH9nlz59X9pErdalYchr?si=yP4o87A0TmOJEUGCL4zKxQ
 
-  # - name:
+  - name: Let Swift Podcast
+    description: Un canal para hablar de novedades, noticias, asuntos relacionados con el desarrollo de aplicaciones móviles para iOS, en particular Swift.
+    image: let-swift.jpg
+    website:
+    apple:
+    google:
+    spotify: https://open.spotify.com/show/5djvDRppT5jmgO7P7w4LK9?si=FLVWmtE1T9-vhiqX7UCQxg
+
+  - name: Mucho Hábitat
+    description: Mucho Hábitat es un Podcast en español donde podrás encontrar las historias de esos que decidieron salir de su zona de confort, aquellos que se retaron y decidieron cambiar todo lo que conocían por nuevas aventuras. Creativos que tomaron la decision de ejercer fuera de sus países y que hoy su historia puede darte la inspiración que necesitas para hacerlo! 
+    image: mucho-habitat.jpg
+    website: https://www.muchohabitat.com
+    apple: https://podcasts.apple.com/us/podcast/mucho-hábitat/id1436944409
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy82YmYxYjEwL3BvZGNhc3QvcnNz
+    spotify: https://open.spotify.com/show/0ph9lvWeYV7NXOdxomSXkd
+
+  - name: Estética Unisex
+    description: Podcast para los que creen que la cultura pop puede provocar discusiones sobre los problemas fundamentales de nuestra sociedad. Jimena Ávalos y William Brinkman-Clark celebran la intersección de filosofía y género, desde Mad Max hasta Mad Men. Lo serio no tiene que ser aburrido.
+    image: estetica-unisex.jpg
+    website:
+    apple: https://podcasts.apple.com/mx/podcast/estética-unisex/id1481221262
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9jOGEwOWVjL3BvZGNhc3QvcnNz
+    spotify: https://open.spotify.com/show/01uJ8lPyAy9Ij70dJUhnea?si=aw9lB82QRIaf9nXY5SAaDw
+
+  - name: Derecho Remix
+    description: Divulgación Jurídica para quienes saben reír. Alegres que esto es serio. Con Miguel Pulido, Ixchel Cisneros y Gonzalo Sánchez de Tagle.
+    image: derecho-remix.jpg
+    website:
+    apple: https://podcasts.apple.com/us/podcast/derecho-remix/id1276374687
+    google: https://podcasts.google.com/?feed=aHR0cDovL3d3dy5wdWVudGVzLm1lL2VwaXNvZGlvL2RlcmVjaG8tcmVtaXgvZmVlZD9wb3N0X3R5cGU9ZXBpc29kaW8
+    spotify: https://open.spotify.com/show/1ZaN28kdcIlRVOqsW26EQr?si=h32M6dldQ5-tF6_f6t62BA
+
+  - name: Nadie Nos Dijo
+    description: Annie, Nando y Javier se toman unas cervezas y debaten sobre los temas que nadie les dijo de la adultez. Además de ser amigos, los tres comparten la crisis de la edad y tratan de responder las incógnitas de la vida que les surgen todos los días.
+    image: nadie-nos-dijo.jpg
+    website:
+    apple: https://podcasts.apple.com/us/podcast/nadie-nos-dijo/id1458830339
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzM3MzE2OS9lcGlzb2Rlcy9mZWVk
+    spotify: https://open.spotify.com/show/4ICeo3WOJiQ9nTiIQYY6rh?si=6c5mkK8dSVqD9MlOmdnyzw
+
+  - name: Háblame Sucio
+    description: Háblame Sucio es el podcast de Anjo Nava y Olivia Aguilar. Hablamos de las cosas que se dicen en privado, sin tapujos ni censura.
+    image: hablame-sucio.jpg
+    website: https://hablamesucio.com
+    apple: https://podcasts.apple.com/mx/podcast/háblame-sucio/id1352251695
+    google: https://podcasts.google.com/?feed=aHR0cDovL2hhYmxhbWVzdWNpby5saWJzeW4uY29tL3Jzcw
+    spotify: https://open.spotify.com/show/5NtXEwJ9xLhfOLS70XQFdt?si=kCNfJR_DSqK5zXkCYnUC0Q
+
+   # - name:
   #   description:
   #   image:
   #   website:
@@ -87,42 +135,4 @@ list:
   #   google:
   #   spotify:
 
-  # - name:
-  #   description:
-  #   image:
-  #   website:
-  #   apple:
-  #   google:
-  #   spotify:
-
-  # - name:
-  #   description:
-  #   image:
-  #   website:
-  #   apple:
-  #   google:
-  #   spotify:
-
-  # - name:
-  #   description:
-  #   image:
-  #   website:
-  #   apple:
-  #   google:
-  #   spotify:
-
-  # - name:
-  #   description:
-  #   image:
-  #   website:
-  #   apple:
-  #   google:
-  #   spotify:
-
-  # - name:
-  #   description:
-  #   image:
-  #   website:
-  #   apple:
-  #   google:
-  #   spotify:
+  
