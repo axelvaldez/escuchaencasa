@@ -127,7 +127,15 @@ list:
     google: https://podcasts.google.com/?feed=aHR0cDovL2hhYmxhbWVzdWNpby5saWJzeW4uY29tL3Jzcw
     spotify: https://open.spotify.com/show/5NtXEwJ9xLhfOLS70XQFdt?si=kCNfJR_DSqK5zXkCYnUC0Q
 
-   # - name:
+  - name: Quémese Después de Escuchar
+    description: Un podcast sobre películas y series.
+    image: quemese-despues-de-escuchar.jpg
+    website:
+    apple: https://podcasts.apple.com/mx/podcast/quémese-después-de-escuchar/id957945316
+    google: https://podcasts.google.com/?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzQyNTQ4MjEucnNz
+    spotify: https://open.spotify.com/show/5GUpDSAGX85wWC7BPcTT3J
+
+      # - name:
   #   description:
   #   image:
   #   website:
@@ -135,4 +143,10 @@ list:
   #   google:
   #   spotify:
 
-  
+      # - name:
+  #   description:
+  #   image:
+  #   website:
+  #   apple:
+  #   google:
+  #   spotify:

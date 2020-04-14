@@ -3,22 +3,22 @@ layout: default
 title: Una lista de podcasts independientes en español para escuchar en casa durante la contingencia sanitaria.
 ---
 
-<section>
+<section class="pb-0">
   <div class="container">
-    <div class="row align-items-center">
-      <div class="col-12 col-lg-7 mb-5 mb-lg-0">
+    <div class="row align-items-flex-end">
+      <div class="col-12 col-lg-7 mb-5 mb-lg-0 pb-5">
         <h1 class="text-primary display-3 font-weight-bold">{{ site.title }}</h1>
         <p class="font-weight-normal h3">{{ page.title }}</p>
       </div>
-      <div class="col-lg-5">
-        <img src="/img/header-illustration.png" alt="" class="img-fluid">
+      <div class="col-lg-5 mb-n5">
+        <img src="/img/header-illustration.png" alt="" class="img-fluid mb-md-n4 mb-lg-0">
       </div>
     </div>
   </div>
 </section>
 
 <section class="bg-light-primary">
-  <div class="container">
+  <div class="container pt-5">
     <div class="row">
       {% for podcast in site.data.podcasts.list %}
 
