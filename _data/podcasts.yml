@@ -135,15 +135,15 @@ list:
     google: https://podcasts.google.com/?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzQyNTQ4MjEucnNz
     spotify: https://open.spotify.com/show/5GUpDSAGX85wWC7BPcTT3J
 
-      # - name:
-  #   description:
-  #   image:
-  #   website:
-  #   apple:
-  #   google:
-  #   spotify:
+  - name: Algo asi es vivir en mi cabeza
+    description: La neta es que tengo mucho miedo de compartir esta serie de voice notes por que siento que no son tan buenos pero es una manera de expresarme, todos tenemos problemas.
+    image: algo-asi-es-vivir-en-mi-cabeza.jpg
+    website:
+    apple:
+    google:
+    spotify: https://open.spotify.com/show/1PETNDZKjvsL4AptqpMogh
 
-      # - name:
+  # - name:
   #   description:
   #   image:
   #   website:
