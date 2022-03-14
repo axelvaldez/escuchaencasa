@@ -63,14 +63,6 @@ list:
     google: https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ZjIyZjcwL3BvZGNhc3QvcnNz
     spotify: https://open.spotify.com/show/7CnQf1Jrum0gxNYzbj6OlS?si=PGHGlJRGRJ695byJN5F9Zg
 
-  - name: La Hora Feliz
-    description: Un podcast chistoso hecho por los comediantes Cojo Feliz y Tío Rober. Humor de todos los colores con temas que no sabías que eran chistosos.
-    image: la-hora-feliz.jpg
-    website:
-    apple: https://podcasts.apple.com/mx/podcast/la-hora-feliz-con-cojo-feliz-y-tío-rober/id1255438694
-    google: https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjIyOTQ5NC9lcGlzb2Rlcy9mZWVk
-    spotify: https://open.spotify.com/show/0u8dE1kc9CkFn8bONEq0hE?si=hECKkJdkSGusFb9VYI3ykg
-
   - name: Las Raras
     description: Podcast independiente de relatos de no ficción. Entrevistas, guión, diseño de sonido y música original.
     image: las-raras.jpg
